@@ -1,0 +1,3 @@
+A new comment added to NEWFILE
+
+Another test to help my learning of the GitHub product
